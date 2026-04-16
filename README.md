@@ -1,5 +1,7 @@
 📱 Samsung Smartphone Recommendation System
 Upsell • Cross-Sell • Revenue Analysis | MOVATE Internship Project
+
+
 📌 Project Overview
 This project focuses on building a data-driven recommendation system for Samsung smartphones using the Apriori algorithm.
 The system identifies customer purchase patterns and generates:
@@ -7,12 +9,16 @@ The system identifies customer purchase patterns and generates:
 •	Cross-sell recommendations (accessories)
 •	Downgrade options (budget alternatives)
 It also evaluates business impact through revenue and ROI analysis and provides an interactive Streamlit dashboard.
+
+
 ⸻
 🎯 Problem Statement
 Companies are not effectively utilizing existing customers for upsell and cross-sell opportunities, leading to:
 •	Lost revenue
 •	Lack of personalization
 •	No data-driven decision making
+
+
 ⸻
 🎯 Objectives
 •	Analyze customer purchase behavior
@@ -20,6 +26,8 @@ Companies are not effectively utilizing existing customers for upsell and cross-
 •	Generate association rules
 •	Estimate revenue and ROI
 •	Develop interactive dashboard
+
+
 ⸻
 📊 Dataset
 •	Kaggle-inspired structured dataset
@@ -27,6 +35,8 @@ Companies are not effectively utilizing existing customers for upsell and cross-
 •	Features: Budget, RAM, Storage, Camera, Age, City, Revenue
 •	Segments: Entry-Level, Balanced, High-End
 •	Cities: Mumbai, Hyderabad, Bangalore
+
+
 ⸻
 ⚙️ Technologies Used
 •	Python
@@ -34,6 +44,8 @@ Companies are not effectively utilizing existing customers for upsell and cross-
 •	Matplotlib
 •	Mlxtend (Apriori Algorithm)
 •	Streamlit (Dashboard)
+
+
 ⸻
 🔍 Methodology
 1.	Data Collection & Preprocessing
@@ -43,6 +55,7 @@ Companies are not effectively utilizing existing customers for upsell and cross-
 5.	Recommendation System Development
 6.	Revenue & ROI Calculation
 7.	Dashboard Visualization
+
 ⸻
 🔗 Association Rules
 •	Generated using Apriori algorithm
@@ -51,17 +64,23 @@ Companies are not effectively utilizing existing customers for upsell and cross-
 •	Confidence
 •	Lift
 •	Identified 9 strong rules with confidence = 1.0
+
+
 ⸻
 💡 Recommendation System
 •	Upsell → Suggest premium smartphones
 •	Cross-Sell → Suggest accessories (earphones, cases, etc.)
 •	Downgrade → Suggest budget-friendly options
+
+
 ⸻
 💰 Business Impact
 •	Total Revenue: ₹1.76 Cr
 •	Total Cost: ₹18 L
 •	Net Profit: ₹1.57 Cr
 •	ROI: 873%
+
+
 ⸻
 📊 Dashboard (Streamlit)
 The project includes an interactive dashboard with:
@@ -69,11 +88,15 @@ The project includes an interactive dashboard with:
 •	User segmentation
 •	Recommendation engine
 •	City-wise insights
+
+
 ⸻
 ⚠️ Limitations
 •	Dataset is synthetic
 •	Limited real-world data
 •	Basic dashboard implementation
+
+
 ⸻
 🔮 Future Scope
 •	Machine learning-based recommendations
