@@ -3,6 +3,7 @@ Upsell • Cross-Sell • Revenue Analysis | MOVATE Internship Project
 
 
 📌 Project Overview
+
 This project focuses on building a data-driven recommendation system for Samsung smartphones using the Apriori algorithm.
 The system identifies customer purchase patterns and generates:
 •	Upsell recommendations (device upgrades)
@@ -11,7 +12,7 @@ The system identifies customer purchase patterns and generates:
 It also evaluates business impact through revenue and ROI analysis and provides an interactive Streamlit dashboard.
 
 
-⸻
+->
 🎯 Problem Statement
 Companies are not effectively utilizing existing customers for upsell and cross-sell opportunities, leading to:
 •	Lost revenue
@@ -19,7 +20,7 @@ Companies are not effectively utilizing existing customers for upsell and cross-
 •	No data-driven decision making
 
 
-⸻
+->
 🎯 Objectives
 •	Analyze customer purchase behavior
 •	Build recommendation system using Apriori
@@ -28,7 +29,7 @@ Companies are not effectively utilizing existing customers for upsell and cross-
 •	Develop interactive dashboard
 
 
-⸻
+->
 📊 Dataset
 •	Kaggle-inspired structured dataset
 •	500+ records
@@ -37,7 +38,7 @@ Companies are not effectively utilizing existing customers for upsell and cross-
 •	Cities: Mumbai, Hyderabad, Bangalore
 
 
-⸻
+->
 ⚙️ Technologies Used
 •	Python
 •	Pandas, NumPy
@@ -46,7 +47,7 @@ Companies are not effectively utilizing existing customers for upsell and cross-
 •	Streamlit (Dashboard)
 
 
-⸻
+->
 🔍 Methodology
 1.	Data Collection & Preprocessing
 2.	Exploratory Data Analysis (EDA)
@@ -56,7 +57,7 @@ Companies are not effectively utilizing existing customers for upsell and cross-
 6.	Revenue & ROI Calculation
 7.	Dashboard Visualization
 
-⸻
+->
 🔗 Association Rules
 •	Generated using Apriori algorithm
 •	Metrics used:
@@ -66,14 +67,14 @@ Companies are not effectively utilizing existing customers for upsell and cross-
 •	Identified 9 strong rules with confidence = 1.0
 
 
-⸻
+->
 💡 Recommendation System
 •	Upsell → Suggest premium smartphones
 •	Cross-Sell → Suggest accessories (earphones, cases, etc.)
 •	Downgrade → Suggest budget-friendly options
 
 
-⸻
+->
 💰 Business Impact
 •	Total Revenue: ₹1.76 Cr
 •	Total Cost: ₹18 L
@@ -81,7 +82,7 @@ Companies are not effectively utilizing existing customers for upsell and cross-
 •	ROI: 873%
 
 
-⸻
+->
 📊 Dashboard (Streamlit)
 The project includes an interactive dashboard with:
 •	Revenue overview
@@ -90,20 +91,20 @@ The project includes an interactive dashboard with:
 •	City-wise insights
 
 
-⸻
+->
 ⚠️ Limitations
 •	Dataset is synthetic
 •	Limited real-world data
 •	Basic dashboard implementation
 
 
-⸻
+->
 🔮 Future Scope
 •	Machine learning-based recommendations
 •	Real-time data integration
 •	Advanced personalization
 •	CRM integration
-⸻
+
 👩‍💻 Author
 Medha Vemula
 MOVATE Internship Project
